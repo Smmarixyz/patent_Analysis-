@@ -55,3 +55,6 @@ Skills Demonstrated:
 Conclusion:
 
 This project showcases the application of topic modeling and data visualization techniques to analyze a collection of patent titles. By identifying latent topics within the dataset and visualizing the results, valuable insights are gained regarding the main themes and trends in patent research. The project demonstrates proficiency in NLP, topic modeling, data visualization, and Python programming skills, making it a valuable addition to any data analysis portfolio.
+
+
+ 
